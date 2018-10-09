@@ -28,17 +28,17 @@ This was built mainly using Unity3D Version 5.6.2f and 5.6.3f. This game runs in
 ### CREDITS ###
 This game was developed in a team consisting of:
 
-- Johnny Mak
-
-- Philip Michael
-
 - Amal Zemmouri
-
-- Jason Kalec
 
 - Helen Tam
 
 - Hoai An Luu
+
+- Jason Kalec
+
+- Johnny Mak
+
+- Philip Michael
 
 
 (Originally developed on BitBucket, now migrated onto GitHub.)
